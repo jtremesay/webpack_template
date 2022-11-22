@@ -26,7 +26,7 @@ Relevant documentations:
   - [Code spliting](https://webpack.js.org/guides/code-splitting/)
   - [Caching](https://webpack.js.org/guides/caching/)
   - [Hot module replacement](https://webpack.js.org/guides/hot-module-replacement/)
-  - [ECMA scnipt module](https://webpack.js.org/guides/ecma-script-modules/)
+  - [ECMA script module](https://webpack.js.org/guides/ecma-script-modules/)
 - Nix stuff:
   - [nix-shell](https://nixos.org/manual/nix/unstable/command-ref/nix-shell.html) 
   - [direnv](https://direnv.net/)
