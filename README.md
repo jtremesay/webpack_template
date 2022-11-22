@@ -3,11 +3,9 @@ My template app for a typescript + webpack project.
 From scratch commands:
 
 ```
-mkdir webpack_template
-cd webpack_template
-npm init -y
-npm install --save-dev webpack webpack-cli webpack-dev-server typescript ts-loader style-loader css-loader html-webpack-plugin
-vim package.json webpack.config.js tsconfig.json
+direnv allow # only if you use nix-shell + direnv
+npm install --save-dev
+npm run serve
 ```
 
 Available commands:
